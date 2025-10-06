@@ -4,8 +4,8 @@
 
 Write a Python program that, given the mean, standard deviation, and number of employees, 
 estimates how many employees fall within: 
-(a) a given range (between two values), 
-(b) less than a given value, and 
+(a) a given range (between two values)
+(b) less than a given value and 
 (c) greater than a given value.
 
 **AIM:**
@@ -64,6 +64,7 @@ print(f"(c) Employees greater than {y}: {num_greater:.4f}")
 **OUTPUT:**
 
 <img width="497" height="333" alt="image" src="https://github.com/user-attachments/assets/b430f321-522d-4696-9b14-9d66ee791833" />
+
 
 **RESULT:**
 
